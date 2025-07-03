@@ -1,0 +1,20 @@
+# Core dependencies
+transformers>=4.40.0
+datasets>=3.6.0
+pandas>=2.2.2
+numpy>=1.26.4
+scikit-learn>=1.4.2
+sentence-transformers>=3.0.1
+faiss-cpu>=1.7.4
+
+# Web interface
+streamlit>=1.32.0
+
+# API server
+fastapi>=0.115.0
+uvicorn>=0.35.0
+
+# Development/testing
+pytest>=8.1.1
+black>=24.0.0
+flake8>=7.0.0
