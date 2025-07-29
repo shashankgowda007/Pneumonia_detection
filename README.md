@@ -246,9 +246,7 @@ User Study Results
 ![Clinical Analysis Dashboard](images/clinical_dashboard.png)
 *Clinical analysis interface with diagnostic insights*
 
-### Performance Metrics
-![System Performance](images/performance_metrics.png)
-*Real-time performance monitoring and metrics*
+
 
 
 
