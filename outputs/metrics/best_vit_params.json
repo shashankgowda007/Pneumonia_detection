@@ -1,0 +1,9 @@
+{
+    "model_name": "vit_small_patch16_224",
+    "unfreeze_layers": 1,
+    "hidden_size": 494,
+    "dropout": 0.43516819821108976,
+    "lr_backbone": 3.534821760521274e-05,
+    "lr_head": 0.000314644207708462,
+    "weight_decay": 2.6223779574779198e-05
+}
