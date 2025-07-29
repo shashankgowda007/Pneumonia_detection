@@ -1,0 +1,3 @@
+pneumonia_cnn.pth
+pneumonia_vit.pth
+data/normal/cnn_pneumonia_model.pth
