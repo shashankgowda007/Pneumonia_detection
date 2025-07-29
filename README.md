@@ -77,6 +77,7 @@ Pneumonia remains one of the leading causes of death globally, with diagnostic a
 └── 🐍 vit_hyperparameter_tuning.py # ViT hyperparameter optimization
 ```
 
+
 ## 📦 Installation
 
 ### Prerequisites
@@ -222,6 +223,7 @@ User Study Results
 18% reduction in decision time
 91% user satisfaction rate
 
+```
 ## 🖼️ Interface Screenshots
 
 ### Main Dashboard
@@ -247,6 +249,8 @@ User Study Results
 ### Performance Metrics
 ![System Performance](images/performance_metrics.png)
 *Real-time performance monitoring and metrics*
+
+
 
 
 
